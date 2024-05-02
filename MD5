@@ -1,0 +1,15 @@
+7dcaaac23e81d35298694b37f7c72cce *DESCRIPTION
+c1c5505213adec416259177c31bd199a *NAMESPACE
+64252c8fb85e90337f0e1c3791dbaf3b *R/Sigma.est.R
+6ea93c098c1d7f4e22df2484fc3e4135 *R/ace.test.R
+dfee42bfda11ec3eb552ba66439b85b2 *R/lcor.R
+3e59c4bade4d37dcf59f5782f917815d *R/lcor.ci.R
+25e618958905d5cfc07577f6ce14ef3c *R/lcor.comp.R
+7fb043385bd32282ebd8af6b5a3d487b *R/lcor.test.R
+ed29495111bd95715a2f2eb5ccc94a9d *README.md
+425bf87e32790a2520bd7b0499f4d58f *man/Sigma.est.Rd
+d3661e1c9ce6012830b9b27312aecad7 *man/ace.test.Rd
+439ad1e8f8ef9cf5d9c2976f31582377 *man/lcor.Rd
+b63700a0180576d45460dce19d07abf4 *man/lcor.ci.Rd
+a14440ffb5cad45670262dee7b4b217c *man/lcor.comp.Rd
+0d9e984c789cb92fdf612eff1cfea93b *man/lcor.test.Rd
